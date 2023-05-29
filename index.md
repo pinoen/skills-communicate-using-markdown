@@ -13,6 +13,10 @@ const myFunction = (a, b) => {
   return a + b;
   }
 ```  
+### next goals: 
+- [x] Learn Front-end development
+- [ ] Learn Back-end development
+- [ ] Learn devops
 
 
   
